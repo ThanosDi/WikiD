@@ -1,0 +1,1 @@
+C:\wamp\www\wiki\app/views/articles/show.blade.php
